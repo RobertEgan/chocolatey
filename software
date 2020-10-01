@@ -19,3 +19,4 @@ choco install kubernetes-cli
 choco install postman
 choco install tortoisegit
 choco install docker-desktop
+choco install sql-server-management-studio
