@@ -22,3 +22,4 @@ choco install docker-desktop
 choco install sql-server-management-studio
 choco install yarn
 choco install make
+choco install firacode
